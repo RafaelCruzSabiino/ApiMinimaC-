@@ -1,4 +1,4 @@
-# ApiMinimaC-
+# ApiMinimaCSharp
 Desenvolvimento API Mínima com C# .NET
 
 ## Adicionar Swagger
